@@ -23,9 +23,9 @@ for (let i = 0; i < tabs.length; i++) {
 }
 
 // contact form
-(function(){
-  emailjs.init("user_A21kzvD6pR7P2R0RrpK7m");
-})();
+// (function(){
+//   emailjs.init("user_A21kzvD6pR7P2R0RrpK7m");
+// })();
 
 const mySuccessAlert = document.getElementById('my-success-alert');
 const contactModal = document.getElementById('contact-modal');
